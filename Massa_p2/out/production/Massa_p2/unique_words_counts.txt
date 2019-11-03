@@ -1,0 +1,6 @@
+cat 1
+dog 1
+parrot 1
+rhino 1
+walrus 1
+monkey 2

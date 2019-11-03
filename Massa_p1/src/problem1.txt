@@ -1,0 +1,14 @@
+cat
+dog
+parrot
+rhino
+dog
+walrus
+cat
+monkey
+car
+bar
+car
+dock
+duck
+duck

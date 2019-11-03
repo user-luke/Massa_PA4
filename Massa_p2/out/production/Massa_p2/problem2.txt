@@ -1,0 +1,8 @@
+cat
+dog
+parrot
+rhino
+dog
+walrus
+cat
+monkey
